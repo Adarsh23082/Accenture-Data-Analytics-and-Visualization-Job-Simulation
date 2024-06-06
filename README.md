@@ -32,7 +32,6 @@ To start engagement with Social Buzz, Accenture is running a 3-month initial pro
 ## Task 4: Presentation to the Client 
 
 1. Reviewed data analysis results and selected impactful visualizations.
-2. Recorded a <10 minute video presentation to deliver the insights to the client and team members.
 
 ## Conclusion
 This internship journey has been an incredible learning experience, allowing me to apply data analytics and visualization skills in a real-world setting. I'm grateful for the opportunity to contribute to our client's success and to grow both personally and professionally during this internship at Accenture.
