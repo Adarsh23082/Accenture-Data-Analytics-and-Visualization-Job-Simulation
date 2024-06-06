@@ -1,9 +1,8 @@
 # Accenture-Data-Analytics-and-Visualization-Job-Simulation
 
 ## Project Overview
-Welcome to my Accenture Data Analytics and Visualization Internship project! I'm thrilled to share my journey of working on a project for our client - Social Buzz, a dynamic social media and content creation platform. Throughout this internship, I've had the exciting opportunity to analyze our client's content performance and provide valuable insights based on data analysis.
-
-## Task 1: Understanding the Project 🧠
+Welcome to my Accenture Data Analytics and Visualization Job Simulation! I'm excited to present my journey of collaborating with Social Buzz, an energetic social media and content creation platform. Throughout this internship, I had the exhilarating opportunity to evaluate our client's content performance and offer valuable insights derived from data analysis.
+## Task 1: Project Understanding
 
 ### About the Client
 - **Client Name**: Social Buzz
@@ -12,38 +11,26 @@ Welcome to my Accenture Data Analytics and Visualization Internship project! I'm
 - **HQ**: San Francisco
 - **Employees**: 250
 
-### Objectives
+### Objective
 To start engagement with Social Buzz, Accenture is running a 3-month initial project to prove that we are the best firm to work with. They are expecting the following:
 - An audit of their big data practice
 - Recommendations for a successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
 
-## Task 2: Data Cleaning & Modeling 🧹📊
+## Task 2: Data Cleaning & Modeling 
 
-### Objective
-My goal was to analyze content categories and determine the top 5 categories with the highest popularity based on reaction scores.
-
-### Steps Taken
 1. Cleaned the provided datasets: Reaction Types, Reactions, and Content.
 2. Merged the datasets to create a comprehensive dataset.
 3. Identified the top 5 performing categories based on total reaction scores.
 
-## Task 3: Data Visualization & Storytelling 📊📖
+## Task 3: Data Visualization & Storytelling 
 
-### Objective
-To choose data visualizations that effectively tell the story of our client's content performance.
-
-### Steps Taken
 1. Reviewed data analysis results to uncover key insights.
 2. Selected appropriate data visualizations to convey insights clearly.
 3. Created a professional PowerPoint presentation outlining key findings and recommendations.
 
-## Task 4: Presentation to the Client 🎥💼
+## Task 4: Presentation to the Client 
 
-### Objective
-Deliver a concise and informative presentation to our client and internal team members.
-
-### Steps Taken
 1. Reviewed data analysis results and selected impactful visualizations.
 2. Recorded a <10 minute video presentation to deliver the insights to the client and team members.
 
